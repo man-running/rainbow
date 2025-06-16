@@ -2,4 +2,5 @@ red is the first colour of the rainbow
 orange is the second colour of the rainbow
 yellow is the third colour of the rainbow
 green is the fourth colour of the rainbow
-blue is the firth colour of the rainbow
+blue is the fifth colour of the rainbow
+violet is the seventh colour of the rainbow
